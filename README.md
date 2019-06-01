@@ -1,2 +1,5 @@
-# controleEstoque
-Um breve exemplo de controle de estoque utilizando spring boot e MyBatis
+treinamento
+==============
+    Versão: 1.0-SNAPSHOT
+
+Insira sua documentação principal aqui.
